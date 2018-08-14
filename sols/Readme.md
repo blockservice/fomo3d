@@ -6,7 +6,7 @@
 
 2. 部署完毕后，需要激活
 
-    `activate`和`setOtherFomo`，最后在Playbook里还要设置`addGame`,这样整个系统就运转起来了。
+    `setOtherFomo`，在Playbook里还要设置`addGame`,最后`activate`, 这样整个系统就运转起来了。
 
 当前目录下的play和team里我写死了reward地址，一个是收取官网直投返佣的收益，另一个是收取注册推广链接那0.01ETH的费用
 
